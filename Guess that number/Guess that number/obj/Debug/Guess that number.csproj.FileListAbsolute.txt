@@ -1,0 +1,6 @@
+c:\users\technologist\documents\visual studio 2012\Projects\Guess that number\Guess that number\bin\Debug\Guess that number.exe.config
+c:\users\technologist\documents\visual studio 2012\Projects\Guess that number\Guess that number\bin\Debug\Guess that number.exe
+c:\users\technologist\documents\visual studio 2012\Projects\Guess that number\Guess that number\bin\Debug\Guess that number.pdb
+c:\users\technologist\documents\visual studio 2012\Projects\Guess that number\Guess that number\obj\Debug\Guess that number.csprojResolveAssemblyReference.cache
+c:\users\technologist\documents\visual studio 2012\Projects\Guess that number\Guess that number\obj\Debug\Guess that number.exe
+c:\users\technologist\documents\visual studio 2012\Projects\Guess that number\Guess that number\obj\Debug\Guess that number.pdb
